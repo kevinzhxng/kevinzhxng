@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Kevin Zhang
 - 👀 I’m especially interested in Frontend Development!
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and React
 - 💞️ I’m looking to connect on LinkedIn
 - 📫 How to reach me: https://www.linkedin.com/in/kevinzhxng/
 
