@@ -4,7 +4,7 @@ Kevin Zhang
 Frontend Software Engineer
 --------------------------
 
-I'm an upcoming sophomore at Georgia Tech majoring in CS! I'm from NJ and I'm looking to go fulltime into the frontend side of development!
+I'm an upcoming sophomore at Georgia Tech majoring in CS!
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [kevinzhxng.me](http://kevinzhxng.me/)
