@@ -1,10 +1,10 @@
 Kevin Zhang
 ===================================================================================================================================
 
-Frontend Software Engineer
+Software Engineer
 --------------------------
 
-I'm an upcoming sophomore at Georgia Tech majoring in CS!
+I'm currently a Junior at Georgia Tech majoring in CS!
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [kevinzhxng.me](http://kevinzhxng.me/)
