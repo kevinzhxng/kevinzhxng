@@ -4,7 +4,7 @@ Kevin Zhang
 Software Engineer
 --------------------------
 
-I'm currently a Junior at Georgia Tech majoring in CS!
+I'm currently a 3rd year at Georgia Tech majoring in CS!
 
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [kevinzhxng.me](http://kevinzhxng.me/)
